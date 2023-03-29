@@ -1,0 +1,9 @@
+scipy
+numpy
+matplotlib
+opencv_python
+tensorflow
+
+tqdm
+Pillow
+h5py
